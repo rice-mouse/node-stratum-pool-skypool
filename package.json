@@ -28,7 +28,7 @@
         "url": "https://github.com/rice-mouse/node-stratum-pool-skypool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/rice-mouse/node-stratum-pool-skypool.git",
+        "multi-hashing": "git://github.com/rice-mouse/node-multi-hashing-skypool.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
